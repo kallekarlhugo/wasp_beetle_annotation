@@ -1,0 +1,19 @@
+-------------------------------
+    AssemblyQC Result  
+-------------------------------
+Contigs Generated :	  11,196
+Maximum Contig Length :	8,899,378
+Minimum Contig Length :	   1,000
+Average Contig Length :	34,315.4 ± 223,252.5
+Median Contig Length :	 5,805.0
+Total Contigs Length :	384,195,232
+Total Number of Non-ATGC Characters :	37,064,150
+Percentage of Non-ATGC Characters :	   9.647
+Contigs >= 100 bp :	  11,196
+Contigs >= 200 bp :	  11,196
+Contigs >= 500 bp :	  11,196
+Contigs >= 1 Kbp :	  11,196
+Contigs >= 10 Kbp :	   3,489
+Contigs >= 1 Mbp :	      51
+N50 value :	 302,549
+Generated using /cerberus/projects/kaltun/Hamback/wasp_final.fa

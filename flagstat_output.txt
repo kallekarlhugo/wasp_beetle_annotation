@@ -1,0 +1,56 @@
+P13501_236_wasp_final.fa_bwa.sorted.bam
+132269834 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+14995016 + 0 supplementary
+0 + 0 duplicates
+129591652 + 0 mapped (97.98% : N/A)
+117274818 + 0 paired in sequencing
+58637409 + 0 read1
+58637409 + 0 read2
+105428694 + 0 properly paired (89.90% : N/A)
+114150284 + 0 with itself and mate mapped
+446352 + 0 singletons (0.38% : N/A)
+8065912 + 0 with mate mapped to a different chr
+2089005 + 0 with mate mapped to a different chr (mapQ>=5)
+P13501_236_wasp_final.fa_NGM.sorted.bam
+117274810 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+105673037 + 0 mapped (90.11% : N/A)
+117274810 + 0 paired in sequencing
+58637405 + 0 read1
+58637405 + 0 read2
+99610510 + 0 properly paired (84.94% : N/A)
+104389264 + 0 with itself and mate mapped
+1283773 + 0 singletons (1.09% : N/A)
+4530598 + 0 with mate mapped to a different chr
+1907581 + 0 with mate mapped to a different chr (mapQ>=5)
+P13501_266_wasp_final.fa_bwa.sorted.bam
+116851106 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+8144918 + 0 supplementary
+0 + 0 duplicates
+109993706 + 0 mapped (94.13% : N/A)
+108706188 + 0 paired in sequencing
+54353094 + 0 read1
+54353094 + 0 read2
+94663974 + 0 properly paired (87.08% : N/A)
+101195644 + 0 with itself and mate mapped
+653144 + 0 singletons (0.60% : N/A)
+5972574 + 0 with mate mapped to a different chr
+2095271 + 0 with mate mapped to a different chr (mapQ>=5)
+P13501_266_wasp_final.fa_NGM.sorted.bam
+108706174 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+94935184 + 0 mapped (87.33% : N/A)
+108706174 + 0 paired in sequencing
+54353087 + 0 read1
+54353087 + 0 read2
+89558704 + 0 properly paired (82.39% : N/A)
+93621868 + 0 with itself and mate mapped
+1313316 + 0 singletons (1.21% : N/A)
+3830004 + 0 with mate mapped to a different chr
+1509514 + 0 with mate mapped to a different chr (mapQ>=5)
