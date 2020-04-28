@@ -6,3 +6,4 @@ library=/data/programs/busco-master/insecta_odb9
 outfile=wasp_final.busco
 python3 /data/programs/busco_v.3.1/scripts/run_BUSCO.py -i $genome -l $library -m genome -o $outfile -c 20
 
+#note
